@@ -46,7 +46,20 @@ Home TAB dashboard:
  
  In this project, I added the home-automation using Google-assistance by adding the node-red-contrib-nora UI in Node-Red and created the account in NORA-home. It will generate token copy it and paste in noda-red's nora switch config properties. After that download google Home in Personal Mobile or Tablet and sign in with same Id. Linked NORA in it by searching.Choose Home and select living  room> light and it show current state.
  
+ Snap-shot of Mobile:
  
-
+ ![alt text](https://github.com/Anmol17Agarwal/Home-Automation-with-Node-Red/blob/main/snap-shot%20of%20mobile.png)
+ 
+ Typically you would ask google assistance:
+ 
+ ```bash
+ Turn the light ON
+ Turning the light ON
+ ```
+ 
+ ## How It Works:
+ NORA creates virtual devices that you can link to your NodeRED connected gadgets and control via Google Home app and voice commands.Get Explained as shown in following Image.
+ 
+ ![alt text](https://github.com/Anmol17Agarwal/Home-Automation-with-Node-Red/blob/main/google%20assistant_nodemcu_cycle.png)
 
 
