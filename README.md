@@ -36,6 +36,17 @@ Most easiest way to add UI.Just go to left side,and click hamburger icon>manage 
 
 Now create the dashboard for home-automtion.
 
+![alt text](https://github.com/Anmol17Agarwal/Home-Automation-with-Node-Red/blob/main/node-red%20connection%20snap.png)
+
+Home TAB dashboard:
+
+![alt text](https://github.com/Anmol17Agarwal/Home-Automation-with-Node-Red/blob/main/node-red%20dashboard.png)
+ 
+ With the help of this Dashboard ,now User can automate the home appliances.
+ 
+ In this project, I added the home-automation using Google-assistance by adding the node-red-contrib-nora UI in Node-Red and created the account in NORA-home. It will generate token copy it and paste in noda-red's nora switch config properties. After that download google Home in Personal Mobile or Tablet and sign in with same Id. Linked NORA in it by searching.Choose Home and select living  room> light and it show current state.
+ 
+ 
 
 
 
